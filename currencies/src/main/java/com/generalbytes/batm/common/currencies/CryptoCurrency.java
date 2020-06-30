@@ -87,6 +87,7 @@ public enum CryptoCurrency {
     SYS("Syscoin"),
     THBX("DigitalThaiBaht"),
     TKN("TokenCard"),
+    ZPAE("ZelaaPayAE"),
     TRTL("TurtleCoin"),
     TRX("Tron"),
     USDS("StableUSD"),
